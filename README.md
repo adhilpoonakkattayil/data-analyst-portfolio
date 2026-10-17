@@ -1,36 +1,35 @@
-# Adhil P. | Data Analyst Portfolio
+# Muhammed Adhil | Data Analyst
 
-Welcome to my Data Analytics Portfolio!
-
-I have a background in Finance and Business Administration, along with training in Data Analytics. I am interested in using data to identify trends, generate insights, and support business decisions.
+Data Analyst and Business Intelligence professional based in **Malta** (valid work permit), with hands-on experience in Python, SQL, Power BI, Tableau and Excel. Strong finance background (BBA Finance, MBA Finance & HR, 2+ years in accounting).
 
 ## Skills
-- Power BI
-- Microsoft Excel
-- SQL
-- Python
-- Data Cleaning and Visualization
-- Financial and Business Analysis
+
+- **Programming & Data:** Python (Pandas, NumPy, Scikit-learn), SQL, R
+- **Machine Learning:** Linear Regression, Decision Tree, Random Forest, model evaluation
+- **BI & Visualisation:** Power BI (DAX), Tableau, Advanced Excel (Pivot Tables, charts)
+- **Finance Tools:** SAP ERP, Tally, QuickBooks
 
 ## Projects
 
-### 1. IPL Data Analytics Dashboard
-Analysing IPL cricket data to understand team performance, match results, and trends using Power BI and Python.
+| # | Project | Tools | Highlights |
+|---|---------|-------|------------|
+| 1 | [IPL 2026 Match Prediction & Analytics Dashboard](./ipl-2026-match-prediction) | Python, ML, Power BI | Predicts match winners from historical IPL data; dashboard for team performance trends |
+| 2 | [Marketing Campaign Analytics & Prediction](./marketing-campaign-analytics) | Python, Pandas, Scikit-learn, Power BI, Excel | 200,000+ records; KPI dashboards for ROI, clicks, impressions, conversions; model to recommend high-ROI channels |
+| 3 | [CO₂ Emission Prediction](./co2-emission-prediction) | Python, Random Forest | Regression model with 99.7% accuracy |
+| 4 | [Global Cybersecurity Threats Dashboard (2015-2024)](./cybersecurity-threats-dashboard) | Power BI, DAX | Identified IT sector as the highest loss area |
+| 5 | [Consumer Transactions Analysis](./consumer-transactions-tableau) | Tableau | 10,000+ transactions; category and payment-method trends |
+| 6 | [Global Tuition Fees Dashboard](./tuition-fees-excel-dashboard) | Excel, Pivot Tables | Interactive dashboard comparing tuition fees worldwide |
 
-**Tools:** Power BI, Python, Pandas
+## Education & Certifications
 
-### 2. Automated Review Rating System
-A project focused on analysing reviews and exploring automated rating techniques.
-
-**Tools:** Add the actual technologies used in this project.
-
-## Education
-- MBA in Finance and HR
-- Bachelor of Business Administration (Finance)
-- Diploma in Data Analytics
-
-## Career Interests
-Data Analyst | Business Analyst | Finance Analyst
+- MBA (Finance and HR), Yenepoya University, 2026
+- BBA (Finance), University of Calicut, 2021-2024
+- Diploma in Data Analytics, Techolas Technologies, 2024-2025
+- Microsoft Office Specialist: Excel 2016
+- GenAI Powered Data Analytics Job Simulation, Forage
 
 ## Contact
-GitHub: https://github.com/adhilpoonakkattayil
+
+- LinkedIn: [adhil-poonakkattayil](https://linkedin.com/in/adhil-poonakkattayil)
+- Email: adhilpoonakkattayil@gmail.com
+- Location: Malta
