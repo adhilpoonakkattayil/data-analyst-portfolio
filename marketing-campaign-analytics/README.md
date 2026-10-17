@@ -1,6 +1,6 @@
 # Marketing Campaign Analytics & Prediction Dashboard
 
-An end-to-end analytics project on 200,000 marketing campaign records, covering KPI reporting in Power BI and a machine learning model to predict campaign performance and recommend high-ROI channels.
+An end-to-end analytics project on 200,000 marketing campaign records. Python was used for cleaning, analysis and predictions, and Power BI for a 5-page interactive dashboard.
 
 ## Objective
 Understand which campaigns, channels and locations deliver the best return, and predict campaign performance to support budget decisions.
@@ -15,12 +15,11 @@ Understand which campaigns, channels and locations deliver the best return, and 
 - **Excel**
 
 ## Project Workflow
-1. **Data cleaning:** Handled missing values, duplicates and data types
-2. **Exploratory analysis:** Compared companies, channels, locations and trends
-3. **KPI reporting:** Tracked ROI, clicks, impressions, spend and conversions
-4. **Modelling:** Applied machine learning to predict campaign performance
-5. **Recommendation:** Identified high-ROI channels
-6. **Dashboard:** Built a 5-page Power BI dashboard
+1. **Data cleaning (Python):** Cleaned the 200,000-record dataset using Pandas
+2. **Analysis (Python):** Created separate summary tables for overview, monthly trend, company, channel, location and campaign analysis
+3. **Prediction (Python):** Built ROI forecast and channel, location and campaign prediction outputs
+4. **Export:** Saved each analysis as an Excel file
+5. **Dashboard (Power BI):** Imported the Excel outputs and built a 5-page dashboard (Overview, Company Analysis, Channel Prediction, Trends, Drill Down)
 
 ## Dashboard Preview
 ![Dashboard Overview](./dashboard-overview.png)
@@ -34,9 +33,10 @@ The dashboard has 5 pages: Overview, Company Analysis, Channel Prediction, Trend
 - Clicks were spread almost evenly across campaign types (Display, Email, Influencer, Search, Social Media)
 
 ## Files
-- `notebook.ipynb`: Data cleaning, analysis and model
-- `Market_campign_data_power_bi.pbix`: Power BI file
+- `Market campign data set.ipynb`: Python cleaning, analysis and predictions
+- `*.xlsx`: Analysis outputs used in Power BI (clean_marketing_data - Copy.csv,Overview, Monthly_Trend, Channel_Prediction, Location_Prediction, campaign_Prediction, ROI_Forecast, Company_Channel_Matrix, Company_Channel_Report)
+- `Market campign data power bi.pbix`: Power BI dashboard
 - `dashboard-overview.png`: Dashboard screenshot
 
 ## Author
-**Muhammed Adhil** | [LinkedIn](https://linkedin.com/in/muhammed-adhil-p-60219324a) | adhilpoonakkattayil@gmail.com
+**Muhammed Adhil** | [adhil-poonakkattayil](https://www.linkedin.com/in/adhil-poonakkattayil) | adhilpoonakkattayil@gmail.com
