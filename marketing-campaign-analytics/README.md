@@ -39,4 +39,7 @@ The dashboard has 5 pages: Overview, Company Analysis, Channel Prediction, Trend
 - `dashboard-overview.png`: Dashboard screenshot
 
 ## Author
+**Muhammed Adhil** | [LinkedIn](https://linkedin.com/in/muhammed-adhil-p-60219324a) | adhilpoonakkattayil@gmail.com
+
+## Author
 **Muhammed Adhil** | [adhil-poonakkattayil](https://www.linkedin.com/in/adhil-poonakkattayil) | adhilpoonakkattayil@gmail.com
