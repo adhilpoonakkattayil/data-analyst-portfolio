@@ -24,19 +24,19 @@ Understand which campaigns, channels and locations deliver the best return, and 
 ## Dashboard Preview
 
 ### Overview
-![Overview](./Screenshot%202026-10-18%20050630.png)
+![Overview](./dashboard-overview.png)
 
 ### Company Analysis
-![Company Analysis](./Screenshot%202026-10-18%20050643.png)
+![Company Analysis](./dashboard-company-analysis.png)
 
 ### Channel Prediction
-![Channel Prediction](./Screenshot%202026-10-18%20050700.png)
+![Channel Prediction](./dashboard-channel-prediction.png)
 
 ### Trends
-![Trends](./Screenshot%202026-10-18%20050713.png)
+![Trends](./dashboard-trends.png)
 
 ### Drill Down
-![Drill Down](./Screenshot%202026-10-18%20050725.png)
+![Drill Down](./dashboard-drill-down.png)
 
 ## Key Insights
 - 109.95M total clicks and 1.10B impressions with $2.50B total spend
