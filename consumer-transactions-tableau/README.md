@@ -44,8 +44,7 @@ The dataset is used to analyze consumer transactions,
 spending amounts, purchase locations, and payment methods.
 
 ## Dashboard Preview
-
-![consumer spending overview] (./consumer spending overview.png)
+![Consumer Spending Overview](./consumer%20spending%20overview.png)
 
 ## Key Insights
 Use the dashboard to identify the highest-revenue
