@@ -10,35 +10,33 @@ Understand which campaigns, channels and locations deliver the best return, and 
 - Fields include company, channel, location, campaign type, clicks, impressions, spend, conversion rate, ROI and engagement score
 
 ## Tools & Technologies
-- **Python** (Pandas, Scikit-learn)
+- **Python** (Pandas, Jupyter Notebook)
 - **Power BI** (interactive dashboards, KPI reports)
 - **Excel**
 
 ## Project Workflow
 1. **Data cleaning (Python):** Cleaned the 200,000-record dataset using Pandas
-2. **Analysis (Python):** Created separate summary tables for overview, monthly trend, company, channel, location and campaign analysis
+2. **Analysis (Python):** Created summary tables for overview, monthly trend, company, channel, location and campaign analysis
 3. **Prediction (Python):** Built ROI forecast and channel, location and campaign prediction outputs
 4. **Export:** Saved each analysis as an Excel file
-5. **Dashboard (Power BI):** Imported the Excel outputs and built a 5-page dashboard (Overview, Company Analysis, Channel Prediction, Trends, Drill Down)
+5. **Dashboard (Power BI):** Imported the Excel outputs and built a 5-page dashboard
 
 ## Dashboard Preview
 
 ### Overview
-![Overview](./dashboard-overview.png)
+![Overview](./Screenshot%202026-10-18%20050630.png)
 
 ### Company Analysis
-![Company Analysis](./dashboard-company-analysis.png)
+![Company Analysis](./Screenshot%202026-10-18%20050643.png)
 
 ### Channel Prediction
-![Channel Prediction](./dashboard-channel-prediction.png)
+![Channel Prediction](./Screenshot%202026-10-18%20050700.png)
 
 ### Trends
-![Trends](./dashboard-trends.png)
+![Trends](./Screenshot%202026-10-18%20050713.png)
 
 ### Drill Down
-![Drill Down](./dashboard-drill-down.png)
-
-The dashboard has 5 pages: Overview, Company Analysis, Channel Prediction, Trends and Drill Down.
+![Drill Down](./Screenshot%202026-10-18%20050725.png)
 
 ## Key Insights
 - 109.95M total clicks and 1.10B impressions with $2.50B total spend
@@ -47,10 +45,11 @@ The dashboard has 5 pages: Overview, Company Analysis, Channel Prediction, Trend
 - Clicks were spread almost evenly across campaign types (Display, Email, Influencer, Search, Social Media)
 
 ## Files
-- `Market campign data set.ipynb`: Python cleaning, analysis and predictions
-- `*.xlsx`: Analysis outputs used in Power BI (clean_marketing_data - Copy.csv,Overview, Monthly_Trend, Channel_Prediction, Location_Prediction, campaign_Prediction, ROI_Forecast, Company_Channel_Matrix, Company_Channel_Report)
+- `Market campign data set.ipynb`: Python cleaning and analysis
+- `MARKET.ipynb`: Python analysis and predictions
+- `*.xlsx`: Analysis outputs used in Power BI (Overview, Monthly_Trend, Channel_Prediction, Location_Prediction, campaign_Prediction, ROI_Forecast, Company_Channel_Matrix, Company_Channel_Report)
 - `Market campign data power bi.pbix`: Power BI dashboard
-- `dashboard-overview.png`: Dashboard screenshot
+- Dashboard screenshots (`Screenshot ... .png`)
 
 ## Author
-**Muhammed Adhil** | [adhil-poonakkattayil](https://www.linkedin.com/in/adhil-poonakkattayil) | adhilpoonakkattayil@gmail.com
+**Muhammed Adhil** | [LinkedIn](https://www.linkedin.com/in/adhil-poonakkattayil) | adhilpoonakkattayil@gmail.com
