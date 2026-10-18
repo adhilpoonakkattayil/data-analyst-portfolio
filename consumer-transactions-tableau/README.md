@@ -45,7 +45,7 @@ spending amounts, purchase locations, and payment methods.
 
 ## Dashboard Preview
 
-![consumer spending overview](./consumer spending overview.png)
+![consumer spending overview] (./consumer spending overview.png)
 
 ## Key Insights
 Use the dashboard to identify the highest-revenue
