@@ -22,7 +22,21 @@ Understand which campaigns, channels and locations deliver the best return, and 
 5. **Dashboard (Power BI):** Imported the Excel outputs and built a 5-page dashboard (Overview, Company Analysis, Channel Prediction, Trends, Drill Down)
 
 ## Dashboard Preview
-![Dashboard Overview](./dashboard-overview.png)
+
+### Overview
+![Overview](./dashboard-overview.png)
+
+### Company Analysis
+![Company Analysis](./dashboard-company-analysis.png)
+
+### Channel Prediction
+![Channel Prediction](./dashboard-channel-prediction.png)
+
+### Trends
+![Trends](./dashboard-trends.png)
+
+### Drill Down
+![Drill Down](./dashboard-drill-down.png)
 
 The dashboard has 5 pages: Overview, Company Analysis, Channel Prediction, Trends and Drill Down.
 
