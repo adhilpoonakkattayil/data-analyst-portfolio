@@ -13,8 +13,7 @@ Data Analyst and Business Intelligence professional based in **Malta** (valid wo
 
 | # | Project | Tools | Highlights |
 |---|---------|-------|------------|
-
-| 1 | [Marketing Campaign Analytics & Prediction](./marketing-campaign-analytics) | Python, Pandas, Scikit-learn, Power BI, Excel | 200,000+ records; KPI dashboards for ROI, clicks, impressions, conversions; model to recommend high-ROI channels |
+| 1 | [Marketing Campaign Analytics & Prediction](./marketing-campaign-analytics) | Python, Pandas, Power BI, Excel | 200,000 records; 5-page Power BI dashboard for ROI, clicks, impressions, spend and conversions |
 | 2 | [IPL 2026 Match Prediction & Analytics Dashboard](./ipl-2026-match-prediction) | Python, ML, Power BI | Predicts match winners from historical IPL data; dashboard for team performance trends |
 | 3 | [CO₂ Emission Prediction](./co2-emission-prediction) | Python, Random Forest | Regression model with 99.7% accuracy |
 | 4 | [Global Cybersecurity Threats Dashboard (2015-2024)](./cybersecurity-threats-dashboard) | Power BI, DAX | Identified IT sector as the highest loss area |
