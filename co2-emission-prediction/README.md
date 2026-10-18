@@ -30,8 +30,8 @@ Predict CO₂ emissions (g/km) of vehicles. This is a regression problem.
 | Model | R² Score |
 |-------|----------|
 | Linear Regression | 0.9125612688263743 |
-| Random Forest Regressor | XX |
-| Decision Tree Regressor | XX |
+| Random Forest Regressor | 0.9994249727335394 |
+| Decision Tree Regressor | 0.996314399324622 |
 
 ## Files
 - `CO2_EMISSION_BY_VEHICLES.ipynb`: Full analysis and models
